@@ -2,7 +2,7 @@
 
 #Get the necessary components
 apt-get update
-apt-get install awesome tightvncserver -y
+apt-get install twm tightvncserver -y
 apt-get install xfe -y
 apt-get clean
 
