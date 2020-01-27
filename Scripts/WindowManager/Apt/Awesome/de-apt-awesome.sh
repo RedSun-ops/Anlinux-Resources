@@ -2,7 +2,7 @@
 
 #Get the necessary components
 apt-get update
-apt-get install i3 tightvncserver -y
+apt-get install fluxbox tightvncserver -y
 apt-get install xfe -y
 apt-get clean
 
