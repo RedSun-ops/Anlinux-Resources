@@ -2,8 +2,7 @@
 
 #Get the necessary components
 apt-get update
-apt-get install lxqt-core lxqt-config qterminal tightvncserver -y
-apt-get install xfe -y
+apt-get install lxqt-core lxqt-config xterm tightvncserver -y
 apt-get clean
 
 #Setup the necessary files
